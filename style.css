@@ -36,7 +36,7 @@ body {
 /***** HEADER *****/
 header {
     height: 200px;
-    background: url("../img/hero.png");
+    background: url("http://localhost:57445/wp-content/uploads/2016/09/hero.png");
     background-size: 1600px auto;
 }
 header h1 {
@@ -155,4 +155,8 @@ nav h2 a {
 #contact ul li {
   display: inline-block;
   float: right;
+}
+
+#contact a {
+  color: #75D7FF;
 }
